@@ -1,0 +1,13 @@
+#name: Junit test and Checkstyle
+name: test
+
+on: [ push ]
+
+permissions:
+  contents: read
+  checks: write
+  id-token: write
+
+jobs:
+  call-workflow-passing-data:
+    uses: EWU-CSCD212/cscd212-f23-jar-tests-files/.github/workflows/lab6.yml@main

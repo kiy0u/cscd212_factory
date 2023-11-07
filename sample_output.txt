@@ -1,0 +1,100 @@
+
+Choose a Board Theme
+1) Fantasy
+2) Earth
+3) Mars
+Choice --> 0
+
+Choose a Board Theme
+1) Fantasy
+2) Earth
+3) Mars
+Choice --> no
+
+Choose a Board Theme
+1) Fantasy
+2) Earth
+3) Mars
+Choice --> 1
+
+Choose a Difficulty Level
+1) Easy
+2) Hard
+3) Insane
+4) Normal
+Choice --> no
+
+Choose a Difficulty Level
+1) Easy
+2) Hard
+3) Insane
+4) Normal
+Choice --> -
+
+Choose a Difficulty Level
+1) Easy
+2) Hard
+3) Insane
+4) Normal
+Choice --> 1
+
+Finishing Game Board Setup
+Building Player: HalfOrc named Gruumsh with 200 life points
+Building Game Board: Fantasy
+Adjusting for Difficulty Level: Easy Level
+Building Enemies:
+	Enemy: Kal-El has 210 life points
+	Enemy: Uzguk has 56 life points
+	Enemy: Dave has 77 life points
+
+Setup a new board (yes/no) yes
+
+Choose a Board Theme
+1) Fantasy
+2) Earth
+3) Mars
+Choice --> 2
+
+Choose a Difficulty Level
+1) Easy
+2) Hard
+3) Insane
+4) Normal
+Choice --> 1
+
+Finishing Game Board Setup
+Building Player: Martian named Marvin with 120 life points
+Building Game Board: Earth
+Adjusting for Difficulty Level: Easy Level
+Building Enemies:
+	Enemy: Dave has 77 life points
+	Enemy: Hugh Mann has 70 life points
+
+Setup a new board (yes/no) 0
+Setup a new board (yes/no) 0
+Setup a new board (yes/no) yes
+
+Choose a Board Theme
+1) Fantasy
+2) Earth
+3) Mars
+Choice --> 3
+
+Choose a Difficulty Level
+1) Easy
+2) Hard
+3) Insane
+4) Normal
+Choice --> 3
+
+Finishing Game Board Setup
+Building Player: Human named Hugh Mann with 100 life points
+Building Game Board: Mars
+Adjusting for Difficulty Level: Insane Level
+Building Enemies:
+	Enemy: Marvin has 240 life points
+	Enemy: Steve has 100 life points
+	Enemy: Evil Carl has 220 life points
+	Enemy: Carl has 200 life points
+
+Setup a new board (yes/no) no
